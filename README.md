@@ -96,7 +96,7 @@ src/
 - [x] Modelagem das entidades (`Person`, `RiskAnalysis`)
 - [x] Repositórios com Spring Data JPA
 - [x] Services com lógica de classificação de risco
-- [x] Controllers e endpoints REST
+- [ ] Controllers e endpoints REST
 - [ ] Configuração do PostgreSQL
 - [ ] Testes no Postman
 - [ ] Validações e tratamento de erros
