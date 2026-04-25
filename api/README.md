@@ -97,8 +97,8 @@ src/
 - [x] Repositórios com Spring Data JPA
 - [x] Services com lógica de classificação de risco
 - [x] Controllers e endpoints REST
-- [ ] Configuração do PostgreSQL
-- [ ] Testes no Postman
+- [x] Configuração do PostgreSQL
+- [x] Testes no Postman
 - [ ] Validações e tratamento de erros
 - [ ] Documentação com Swagger
 
